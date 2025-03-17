@@ -49,7 +49,7 @@
 4. **Install Required Tools**:
    - The required tools will be installed automatically when you run the script for the first time.
 
-[🔗 Installation Image](https://i.postimg.cc/Bb04qdR8/Ghostfind.png)
+![🔗 Installation Image](https://i.postimg.cc/Bb04qdR8/Ghostfind.png)
 
 ---
 
