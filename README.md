@@ -48,7 +48,7 @@
 ## Installation
 
 1. **Ensure Git is Installed**:
-   - If Git is not installed, download and install it from [here](https://git-scm.com/).
+   - If Git is not installed, download and install it from <a href="https://git-scm.com/" target="_blank">here</a>.
 
 2. **Clone the Repository**:
    ```bash
