@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/release-v1.0.-orange">
+  <img src="https://img.shields.io/badge/release-v1.0-orange">
   <img src="https://img.shields.io/github/issues-closed/xtawb/Ghostfind">
 </p>
 
