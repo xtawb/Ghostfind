@@ -5,7 +5,7 @@
 <h2 align="center">ＧＨＯＳＴＦＩＮＤ</h2>
 
 <p align="center">
-  SC Advanced Reconnaissance.
+  <b>SC Advanced Reconnaissance.</b>
 </p>
 
 <p align="center">
@@ -13,13 +13,13 @@
   <img src="https://img.shields.io/github/issues-closed/xtawb/Ghostfind">
 </p>
 
-# Ghostfind 🛡️
+# Ghostfind 
 
 **Ghostfind** is an advanced web vulnerability scanner designed to be both user-friendly and powerful. It provides a wide range of features for scanning websites and discovering security vulnerabilities.
 
 ---
 
-## 📜 Table of Contents
+## Table of Contents
 
 - [Features](#-features)
 - [Installation](#-installation)
@@ -45,7 +45,7 @@
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. **Ensure Git is Installed**:
    - If Git is not installed, download and install it from [here](https://git-scm.com/).
@@ -68,7 +68,7 @@
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. **Run the Tool**:
    ```bash
@@ -95,7 +95,7 @@
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Subfinder**: For subdomain enumeration.
 - **Amass**: For advanced subdomain enumeration.
@@ -110,7 +110,7 @@
 
 ---
 
-## 📞 Contact
+## Contact
 
 - **Developer**: [@xtawb](https://linktr.ee/xtawb)
 - **Repository Link**: [Ghostfind on GitHub](https://github.com/xtawb/Ghostfind)
