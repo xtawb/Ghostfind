@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="https://i.postimg.cc/sXRp54Lk/logo.png" alt="Ghostfind Logo" width="150">
+</p>
+
+<h2 align="center">ＧＨＯＳＴＦＩＮＤ</h2>
+
+<p align="center">
+  SC Advanced Reconnaissance.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/release-v1.0.-orange">
+  <img src="https://img.shields.io/github/issues-closed/xtawb/Ghostfind">
+</p>
+
 # Ghostfind 🛡️
 
 **Ghostfind** is an advanced web vulnerability scanner designed to be both user-friendly and powerful. It provides a wide range of features for scanning websites and discovering security vulnerabilities.

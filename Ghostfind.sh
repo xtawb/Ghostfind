@@ -15,7 +15,7 @@ echo -e "${DARK_RED}
     \e[1mＧＨＯＳＴＦＩＮＤ${RESET} ${WHITE}
         		${MAGENTA}by${RESET} \e[1m${CYAN}@xtawb${RESET}${DARK_RED}
 ${RESET}"
-echo -e "${LIGHT_RED}Advanced Reconnaissance Framework${RESET} ${GREEN}v1.0${RESET}"
+echo -e "${LIGHT_RED}Advanced Reconnaissance Framework${RESET} ${GREEN}{v1.0}${RESET}"
 echo -e "${MAGENTA}Contact: ${CYAN}https://linktr.ee/xtawb${RESET}"
 echo -e "${MAGENTA}Github : ${CYAN}https://github.com/xtawb${RESET}"
 
